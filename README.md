@@ -1,0 +1,3 @@
+# [WIP] chatwork_client_kmm
+Kotlin Multi Platformを用いてChatWorkのAPIを使い簡単なクライアントアプリを作りました。  
+ViewはAndroidではJetpackCompose,iOSではSwiftUIで作成し、モデル部分はKotlinで共通化しています。
